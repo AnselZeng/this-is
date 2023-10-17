@@ -1,4 +1,4 @@
-# This Is Ansel – My Spotify Inspired Portfolio Site
+# This Is Ansel: My Spotify Inspired Draft Portfolio Site
 
 This project is my simple, unfinished portfolio website that serves as a draft version. It's created with the primary goal of experimenting with different tech stacks and enhancing my front-end web development skills while showcasing creativity.
 
